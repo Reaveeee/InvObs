@@ -2,3 +2,11 @@ name: InvObs
 version: '1.0-SNAPSHOT'
 main: de.reave.invObs.InvObs
 api-version: '1.21'
+
+commands:
+  seeinventory:
+    discription: Lets you see the inventory of another player
+    aliases: invsee
+  seeenderchest:
+    discription: Lets you see the ender chest of another player
+    aliases: ecsee
