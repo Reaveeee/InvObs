@@ -1,0 +1,4 @@
+name: InvObs
+version: '1.0-SNAPSHOT'
+main: de.reave.invObs.InvObs
+api-version: '1.21'
